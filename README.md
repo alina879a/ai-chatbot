@@ -1,6 +1,4 @@
-# MultiPDF Chat App
-
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
+# Sweetrobo AI Chat App
 
 ## Introduction
 The SweetRobo AI Chatbot is a Python application designed to help customers interact with SweetRobo machine manuals using natural language. This AI-powered assistant allows users to ask questions about SweetRobo products, and it provides helpful, accurate responses based on the content of official manuals.
